@@ -1,0 +1,16 @@
+﻿Column Name,Description
+age,The age of an individual
+workclass,A general term to represent the employment status of an individual
+fnlwgt,"Final weight. In other words, this is the number of people the census believes the entry represents"
+education,The highest level of education achieved by an individual
+education.num,The highest level of education achieved in numerical form
+marital.status,Marital status of an individual. Married­civ­spouse corresponds to a civilian spouse while Married­AF­spouse is a spouse in the Armed Forces
+occupation,The general type of occupation of an individual
+relationship,Represents what this individual is relative to others. For example an individual could be a Husband. Each entry only has one relationship attribute and is somewhat redundant with marital status. We might not make use of this attribute at all
+race,Descriptions of an individual’s race
+sex,The biological sex of the individual
+capital.gain,Capital gains for an individual
+capital.loss,Capital loss for an individual
+hours.per.week,The hours an individual has reported to work per week
+native.country,Country of origin for an individual
+income,"Whether or not an individual makes more than $50,000 annually"
